@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laminas/laminas-diactoros": "^2.11",
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
